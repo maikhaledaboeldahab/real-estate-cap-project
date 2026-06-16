@@ -1,0 +1,12 @@
+.navbg{
+    background-color: var(--color-on-primary-fixed);
+}
+
+.navcont{
+    display: flex;
+}
+
+.img{
+    
+    height: 50px;
+}
